@@ -4,7 +4,8 @@ h1 {
   font-family: Arial, Helvetica, sans-serif;
   font-size: 250%;
 }
-h2, h3 {
+h2,
+h3 {
   color: #444;
   font-family: Arial, Helvetica, sans-serif;
   font-weight: lighter;
@@ -12,7 +13,9 @@ h2, h3 {
 body {
   margin: 2em;
 }
-body, input[type="text"], button {
+body,
+input[type="text"],
+button {
   color: #333;
   font-family: Cambria, Georgia, serif;
 }
@@ -23,10 +26,9 @@ button {
   cursor: pointer;
   color: black;
   font-size: 1.2rem;
-  padding: 1rem;
-  margin-right: 1rem;
-  margin-bottom: 1rem;
-  margin-top: 1rem;
+  padding: 0.6rem;
+  margin-bottom: 0.7rem;
+  margin-top: 0.7rem;
 }
 button:hover {
   background-color: black;
@@ -41,4 +43,9 @@ button:disabled {
 /* everywhere else */
 * {
   font-family: Arial, Helvetica, sans-serif;
+}
+
+/*my properties */
+* {
+  list-style-type: none;
 }
