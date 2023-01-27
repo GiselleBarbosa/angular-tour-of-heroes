@@ -17,7 +17,7 @@ body,
 input[type="text"],
 button {
   color: #333;
-  font-family: Cambria, Georgia, serif;
+  font-family: Arial, Helvetica, sans-serif;
 }
 button {
   background-color: #eee;
@@ -31,7 +31,7 @@ button {
   margin-top: 0.7rem;
 }
 button:hover {
-  background-color: black;
+  background-color: rgb(0, 0, 0);
   color: white;
 }
 button:disabled {
