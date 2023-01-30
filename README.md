@@ -2,9 +2,10 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.2.7.
 
-## Development server
+## Deployment
+`https://tour-of-heroes-tutorial.vercel.app/dashboard`
 
-`https://angular-tour-of-heroes-2nfc3e00g-gisellebarbosa.vercel.app/dashboard`
+## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
 
